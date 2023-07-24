@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Humano-Green/static/css/main.55320bc5.css",
+    "main.js": "/Humano-Green/static/js/main.b637e0d2.js",
+    "index.html": "/Humano-Green/index.html",
+    "main.55320bc5.css.map": "/Humano-Green/static/css/main.55320bc5.css.map",
+    "main.b637e0d2.js.map": "/Humano-Green/static/js/main.b637e0d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55320bc5.css",
+    "static/js/main.b637e0d2.js"
+  ]
+}
