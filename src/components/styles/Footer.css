@@ -1,0 +1,38 @@
+.main_footer {
+    background-color: transparent;
+}
+
+.footer_logo {
+    width: 80px;
+}
+
+.footer {
+    padding-bottom: 22px;
+}
+
+.footer>div:not(:last-child) {
+    padding-right: 24px;
+}
+
+.footer_headings {
+    color: var(--dGreen);
+    padding-bottom: 18px;
+}
+
+.footer_headings~div {
+    padding-bottom: 5px;
+    font-size: 14px;
+}
+
+.footer_headings~div>a {
+    color: inherit;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.social_icon {
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+    margin-right: 13px;
+}

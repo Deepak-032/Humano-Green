@@ -1,0 +1,23 @@
+.owner_image {
+    max-width: 160px;
+    background-color: var(--primary);
+    position: absolute;
+    border-radius: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 0;
+}
+
+@media (max-width: 991px) {
+    .owner_container:not(:last-of-type) {
+        margin-bottom: 8rem;
+    }
+
+    .owner_container:nth-of-type(1) {
+        margin-top: 5rem;
+    }
+
+    .owner_image {
+        transform: translate(-5%, -50%);
+    }
+}
