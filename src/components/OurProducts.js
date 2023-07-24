@@ -4,28 +4,28 @@ import Dropdown from './Dropdown'
 const products = [
     {
         p: "Industrial Liner Bags",
-        i: "/assets/industriallinerbags.jpg",
+        i: "./assets/industriallinerbags.jpg",
         d: "Humano’s industrial liner bags are best for storing and packaging a variety of products. Our qualitative range of liner bags provide extra protection to their constituents against air and humidity. They are 100% compostable and friendly for the environment!",
         f: ["Light-weight", "Leakage proof", "Safe to consume for animals", "Wear and tear resistant", "Environment-friendly"],
         u: ["Household purposes", "Solid waste management", "Daily use", "Storing air and humidity resistant constituents"]
     },
     {
         p: "Bio Compostable Films",
-        i: "/assets/compostiblenurserybag.jpg",
+        i: "./assets/compostiblenurserybag.jpg",
         d: "Humano Green products introduces an environmentally friendly solution to the global plastics problem, without compromising the user experience or requiring a shift in consumer behaviour. Unlike other plastic replacements products, the Humano Green products are most Sustainable, Ocean safe alternative to Plastic that lasts for hours, not centuries.",
         f: ["100% safe for environment", "Disintegrates into earth and leaves no residue", "Ranges from 35 to 120 micron", "Environment-friendly"],
         u: ["Packaging Material", "Base Material For Embroidery, Wigs", "Laundry Sheets & Clothing", "Film For Tree Planting & Seeding"]
     },
     {
         p: "Garbage Bags",
-        i: "/assets/garbagebags.jpg",
+        i: "./assets/garbagebags.jpg",
         d: "Humano Green garbage bags come in different colours and sizes for all kinds of garbage disposals. They conform to ISI7088 and have been certified by CPCB. Try out Humano’s 100% compostable garbage bags for your garbage disposal needs!",
         f: ["Complimented with pleasant aromas", "Doubly sealed for enhanced holding capacity", "Available in various colours and sizes", "Free of toxins and chemicals", "6 months shelf life", "Environment-friendly"],
         u: ["Industrial garbage disposal", "Household garbage disposal", "Food waste disposal",]
     },
     {
         p: "Shopping Bags",
-        i: "/assets/shoppingbag.jpg",
+        i: "./assets/shoppingbag.jpg",
         d: "The Humano Shopping Bags have been designed to fuel your convenience while being mindful and considerate about the environment. Switch to our 100% compostable shopping bags to make better choices for yourselves and mother nature!",
         f: ["100% biocompostable", "Environment-friendly", "Toxin and chemical-free"],
         u: ["Industrial purposes", "Supermarket visits", "Household chores", "Restaurants and hotels"]

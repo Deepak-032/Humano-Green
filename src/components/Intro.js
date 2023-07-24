@@ -2,30 +2,30 @@ import React from 'react'
 import './styles/Intro.css'
 
 const nonBio = [
-    { i: "/icons/warning.png", t: "Ecologically hazardous" },
-    { i: "/icons/oil-barrel.png", t: "Products made from petroleum like plastic" },
-    { i: "/icons/co2.png", t: "Carbon dioxide emissions are harmful" },
+    { i: "./icons/warning.png", t: "Ecologically hazardous" },
+    { i: "./icons/oil-barrel.png", t: "Products made from petroleum like plastic" },
+    { i: "./icons/co2.png", t: "Carbon dioxide emissions are harmful" },
 ]
 const bio = [
-    { i: "/icons/waterdrop.png", t: "Dissolves/disintegrates slowly" },
-    { i: "/icons/co2.png", t: "Reduces carbon emissions and is non-toxic" },
-    { i: "/icons/warning.png", t: "Ecologically dangerous and costly" },
+    { i: "./icons/waterdrop.png", t: "Dissolves/disintegrates slowly" },
+    { i: "./icons/co2.png", t: "Reduces carbon emissions and is non-toxic" },
+    { i: "./icons/warning.png", t: "Ecologically dangerous and costly" },
 ]
 const comp = [
-    { i: "/icons/recycle.png", t: "Reduces the need for recycling" },
-    { i: "/icons/profit.png", t: "Effective in terms of cost" },
-    { i: "/icons/planet-earth.png", t: "Ecosystem-friendly" },
+    { i: "./icons/recycle.png", t: "Reduces the need for recycling" },
+    { i: "./icons/profit.png", t: "Effective in terms of cost" },
+    { i: "./icons/planet-earth.png", t: "Ecosystem-friendly" },
 ]
 
 const features = [
-    { i: "/icons/biodegradable.png", t: "Biocompostable" },
-    { i: "/icons/compostable.png", t: "Environment Friendly" },
-    { i: "/icons/save-the-planet.png", t: "Sustainable" },
-    { i: "/icons/money.png", t: "Cost Efficient" },
-    { i: "/icons/quality.png", t: "Recommended" },
-    { i: "/icons/toxin.png", t: "Toxin Free" },
-    { i: "/icons/love.png", t: "Safe for Animals" },
-    { i: "/icons/bpa-free.png", t: "BPA Free" },
+    { i: "./icons/biodegradable.png", t: "Biocompostable" },
+    { i: "./icons/compostable.png", t: "Environment Friendly" },
+    { i: "./icons/save-the-planet.png", t: "Sustainable" },
+    { i: "./icons/money.png", t: "Cost Efficient" },
+    { i: "./icons/quality.png", t: "Recommended" },
+    { i: "./icons/toxin.png", t: "Toxin Free" },
+    { i: "./icons/love.png", t: "Safe for Animals" },
+    { i: "./icons/bpa-free.png", t: "BPA Free" },
 
 ]
 
@@ -52,7 +52,7 @@ function Intro() {
                             </div>
                         </div>
                         <div className='col-12 col-lg'>
-                            <img className='hero_image' src='/assets/herosection.jpg' alt='' />
+                            <img className='hero_image' src={"./assets/herosection.jpg"} alt='' />
                             <div className='box1'></div>
                             <div className='box2'></div>
                         </div>
@@ -109,7 +109,7 @@ function Intro() {
                             <div className='text-lg-center text-end' style={{ color: "var(--lGreen)", fontSize: "13rem", lineHeight: 1, maxHeight: "56px" }}>"</div>
                         </div>
                         <div className='col-lg'>
-                            <img className='plant_image' src='/assets/plant.png' alt='' />
+                            <img className='plant_image' src={'./assets/plant.png'} alt='' />
                         </div>
                     </div>
                 </div>

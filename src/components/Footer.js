@@ -10,7 +10,7 @@ function Footer() {
                         <a href="#">
                             <img
                                 className="footer_logo"
-                                src="/assets/logo-01.png"
+                                src={"./assets/logo-01.png"}
                                 alt="logo"
                             />
                         </a>

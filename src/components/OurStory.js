@@ -40,7 +40,7 @@ function OurStory() {
 
                     <div className='box1_our_story'></div>
                     <div className='col-lg-10 mt_max pt-3 pt-lg-0 ps-lg-5 bg_green'>
-                        <img className='w-100 ps-lg-4' src='/assets/ourstory.jpg' alt='' />
+                        <img className='w-100 ps-lg-4' src={'./assets/ourstory.jpg'} alt='' />
                     </div>
 
                     <div className='row justify-content-end pt-4 pb-5'>
@@ -59,7 +59,7 @@ function OurStory() {
                 <div className='row'>
                     <div className='col-12 col-lg-6 p-0'>
                         <div className='d-flex flex-column h-100'>
-                            <img className='w-100' src='/assets/plant2.jpg' alt='' />
+                            <img className='w-100' src={'./assets/plant2.jpg'} alt='' />
                             <div className='bg_green p-lg-5 p-4 flex-fill d-flex align-items-center'>
                                 <h2 className='col-lg-9 text-white ms-auto me-auto'>Completely safe for environment</h2>
                             </div>
@@ -72,12 +72,12 @@ function OurStory() {
                                 <p className='mb-0'>biocompostable plastic bags made by Humano Green can turn into soil in under a month.</p>
                                 <p>They pose no damage to the environment. Our bags are created from biomass, hence truly sustainable</p>
                             </div>
-                            <img className='w-100' src='/assets/sheetbanner.jpg' alt='' />
+                            <img className='w-100' src={'./assets/sheetbanner.jpg'} alt='' />
                         </div>
                     </div>
                     <div className='col-12 col-lg-3 p-0'>
                         <div className='d-flex flex-column h-100'>
-                            <img className='w-100' src='/assets/shoppingbagbanner.jpg' alt='' />
+                            <img className='w-100' src={'./assets/shoppingbagbanner.jpg'} alt='' />
                             <div className='bg_green p-lg-5 p-4 p-lg-4 flex-fill d-flex align-items-center'>
                                 <h2 className='text-white'>Highly Sustainable</h2>
                             </div>

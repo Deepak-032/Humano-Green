@@ -33,7 +33,7 @@ function NavBar() {
                         <a href="#">
                             <img
                                 className="navbar_logo"
-                                src="/assets/logo-02.png"
+                                src={"./assets/logo-02.png"}
                                 alt="logo"
                             />
                         </a>

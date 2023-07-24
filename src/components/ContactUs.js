@@ -54,7 +54,7 @@ function ContactUs() {
                     <div className="col-12 col-lg-6 d-none d-lg-block">
                         <img
                             className="contact_image w-100"
-                            src="/assets/contactform.jpg"
+                            src={"./assets/contactform.jpg"}
                             alt=""
                         />
                     </div>

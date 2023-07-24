@@ -1,12 +1,12 @@
 import React from 'react'
 
 const products = [
-    { i: '/assets/compostibleagromulchfilmroll.jpg', t: 'Compostable Agro Mulch Film Roll'},
-    { i: '/assets/tiffinsheet.jpg', t: 'Tiffin Sheet'},
-    { i: '/assets/vegetablebag.jpg', t: 'Fruit and Vegetable Bag'},
-    { i: '/assets/carrybag.jpg', t: 'Carry Bag'},
-    { i: '/assets/bagsonroll.jpg', t: 'Bags on Roll'},
-    { i: '/assets/laundrybag.jpg', t: 'Laundry Bag'},
+    { i: './assets/compostibleagromulchfilmroll.jpg', t: 'Compostable Agro Mulch Film Roll'},
+    { i: './assets/tiffinsheet.jpg', t: 'Tiffin Sheet'},
+    { i: './assets/vegetablebag.jpg', t: 'Fruit and Vegetable Bag'},
+    { i: './assets/carrybag.jpg', t: 'Carry Bag'},
+    { i: './assets/bagsonroll.jpg', t: 'Bags on Roll'},
+    { i: './assets/laundrybag.jpg', t: 'Laundry Bag'},
 ]
 
 function OtherProducts() {
