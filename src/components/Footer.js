@@ -41,6 +41,13 @@ function Footer() {
                             <div><a href="#garbage-bags">Garbage Bags</a></div>
                             <div><a href="#shopping-bags">Shopping Bags</a></div>
                         </div>
+                        <div className="col-6 col-lg-2">
+                            <h6 className="footer_headings">Contact Us</h6>
+                            <div>export@humano.in</div>
+                            <div>vishal2garg@gmail.com</div>
+                            <div>+919915010797</div>
+                            <div>+917986545600</div>
+                        </div>
                     </div>
                 </div>
             </footer>
