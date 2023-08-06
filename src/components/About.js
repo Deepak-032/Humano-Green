@@ -4,18 +4,18 @@ import './styles/About.css'
 const owners = [
     {
         n: "Vishal Garg",
-        i: "./assets/vishal.png",
+        i: "./assets/VishalGarg.png",
         d: "Over the course of his career, Vishal has demonstrated excellent leadership qualities and sharp intellect in the corrugation and food industries. As a Mechanical Engineering graduate from a reputable college in Bangalore, he invested his vision in this amazing business endeavor to achieve his entrepreneurial goals."
     },
     {
-        n: "Sarush Garg",
-        i: "./assets/sarush.png",
-        d: "With the strong background in the industry and prestigious degrees from Symbiosis International University in BBA degree in IT and Télécom Ecole de Management, Paris awarded him a diploma in IT Risk Management, worked in the tissue paper industry, logistics, and hygiene industry for over 6 years. which makes him a dynamic and visionary team member."
+        n: "Sneha Garg",
+        i: "./assets/SnehaGarg.png",
+        d: "Dynamic and accomplished, Sneha Garg, a Doctor of Pharmacy candidate driven to make a positive impact. She has extensive exposure to diversity and committed to reducing plastic waste and promoting environmental consciousness. By combining her healthcare background, language education expertise, and marketing skills, she strive to create a sustainable and inclusive future."
     },
     {
-        n: "Sarang Garg",
-        i: "./assets/sarang.png",
-        d: "An Electronics and Communications engineer from NIT Trichy, Sarang also has over 6 years of remarkable experience in the IT and hygiene industry. He is a technocrat focused on streamlining the operations of the company to ensure its steady and swift functioning."
+        n: "Mudit Chadha",
+        i: "./assets/MuditChadha.png",
+        d: "Throughout Mudit Chadha's professional journey, he has gained valuable experience working in both domestic and international markets, enabling him to develop a global perspective and adapt to diverse cultural environments. His strong analytical skills and business acumen have been instrumental in identifying and implementing innovative solutions to drive operational efficiency."
     },
 ]
 
